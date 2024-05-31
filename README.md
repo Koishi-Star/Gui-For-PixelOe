@@ -1,6 +1,14 @@
 # Gui-For-PixelOE
 A useful GUI for using PixelOE easily.
 
+## The Newest Version
+
+Thanks to opencv, we can generate better pixel image, like this:
+![test9](https://github.com/Koishi-Star/Gui-For-PixelOe/assets/66173435/1eda3dd8-2b9a-46e5-a33b-8a4657aedb9a)  
+![test14](https://github.com/Koishi-Star/Gui-For-PixelOe/assets/66173435/bfe2ce96-a097-4550-87e1-38cfc9fd0375)  
+
+These are perfect pure pixel. Just using default parament and generate great pixel img!
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
