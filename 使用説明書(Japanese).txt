@@ -1,0 +1,18 @@
+# 使用説明書
+
+## インストール環境
+
+1. Python（バージョン3.10推奨）をダウンロードしてインストールします：[https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. セットアップスクリプトを実行します：
+   - Windows：`setup.bat`をダブルクリック
+   - Linux/macOS：書いていません
+
+## プログラムの実行
+
+1. 実行スクリプトを実行します：
+   - Windows：`run.bat`をダブルクリック
+   - Linux/macOS：書いていません
+
+## 注意事項
+
+- 触らなければ問題ありません。

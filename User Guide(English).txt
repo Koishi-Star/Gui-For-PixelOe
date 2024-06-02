@@ -1,0 +1,22 @@
+
+# User Guide
+
+## Installation Environment
+
+1. Download and install Python (version 3.10 recommended): [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Run the setup script:
+   - Windows: Double-click `setup.bat`
+   - Linux/macOS: Not written
+
+## Running the Program
+
+1. Run the run script:
+   - Windows: Double-click `run.bat`
+   - Linux/macOS: Not written
+
+## Notes
+
+- As long as you don't touch it, there will be no issues.
+
+
+

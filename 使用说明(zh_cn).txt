@@ -1,0 +1,18 @@
+# 使用说明
+
+## 安装环境
+
+1. 下载并安装Python(推荐310版本)：https://www.python.org/downloads/
+2. 运行setup脚本：
+   - Windows: 双击 `setup.bat`
+   - Linux/macOS: 不会写
+
+## 运行程序
+
+1. 运行run脚本：
+   - Windows: 双击 `run.bat`
+   - Linux/macOS: 不会写
+
+## 注意事项
+
+- 只要不动就不会有问题
